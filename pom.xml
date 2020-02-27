@@ -40,10 +40,10 @@
                  <name>sample_maven_release</name>
                  <url>http://localhost:8081/repository/sample_maven_release/</url>
             </repository>
-            <snapshotrepository>
+            <snapshotRepository>
                  <id>deployment</id>
                  <name>sample_maven_snapshot</name>
                  <url>http://localhost:8081/repository/sample_maven_snapshot/</url>
-            </snapshotrepository>         
+            </snapshotRepository>         
      </distributionManagement>                  
 </project>
